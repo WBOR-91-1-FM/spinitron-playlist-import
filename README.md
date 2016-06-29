@@ -15,4 +15,6 @@ Now that we have the CSV downloaded, it's time to import it into Spinitron.
 - Click Submit.
 - On the next page, click on "Choose file" and just import the .CSV file you downloaded using Exportify.
 - Now the next page will look like this:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+![alt text](https://github.com/Contentmaudlin/spinitronplaylist/blob/master/img1.png "Logo Title Text 1")
