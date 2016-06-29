@@ -8,6 +8,7 @@
 - Find the playlist you want exported and click export. This will download a .CSV file.
 
 Now that we have the CSV downloaded, it's time to import it into Spinitron.
+
 2. Spinitron
 - Log in to Spinitron and click on "Import a playlist" under the "Playlists" column.
 - Select the show you are importing a playlist for. Make sure you mark that you are working on the playlist "Before the show"
