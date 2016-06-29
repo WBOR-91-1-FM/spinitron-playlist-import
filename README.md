@@ -18,3 +18,11 @@ Now that we have the CSV downloaded, it's time to import it into Spinitron.
 
 
 ![alt text](https://github.com/Contentmaudlin/spinitronplaylist/blob/master/img3.png "Logo Title Text 1")
+
+- Make sure that your settings are exactly like in the image
+   - Untick the box for the top row.
+   - Mark "Song Name" above Track Name.
+   - Mark "Artist Name" above Artist Name.
+   - Mark "Disk Name" above Album Name.
+   - Make sure "-ignore-" is marked for all the others.
+- Click import.
