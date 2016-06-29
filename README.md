@@ -17,4 +17,4 @@ Now that we have the CSV downloaded, it's time to import it into Spinitron.
 - Now the next page will look like this:
 
 
-![alt text](https://github.com/Contentmaudlin/spinitronplaylist/blob/master/img2.png "Logo Title Text 1")
+![alt text](https://github.com/Contentmaudlin/spinitronplaylist/blob/master/img3.png "Logo Title Text 1")
