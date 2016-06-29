@@ -1,6 +1,6 @@
-## Importing Spotify Playlists Into Spinitron
+#H1 Importing Spotify Playlists Into Spinitron
 
-1. Exportify
+#H2Exportify
 - Go to Exportify using the following link: 
    https://rawgit.com/watsonbox/exportify/master/exportify.html
 - Click on "Get Started"
@@ -9,7 +9,7 @@
 
 Now that we have the CSV downloaded, it's time to import it into Spinitron.
 
-2. Spinitron
+#H2 Spinitron
 - Log in to Spinitron and click on "Import a playlist" under the "Playlists" column.
 - Select the show you are importing a playlist for. Make sure you mark that you are working on the playlist "Before the show"
 - Click Submit.
